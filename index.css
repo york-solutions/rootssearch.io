@@ -22,7 +22,7 @@ header h1 {
   flex: 1;
 }
 
-#main > * {
+#main > div {
   margin: 64px 0;
 }
 
